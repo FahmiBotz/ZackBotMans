@@ -84,7 +84,7 @@ let buttons = [
 let buttonMessage = {
 image: {url:ppgroup},
 caption: teks,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© By Fahmi`Botz",
 buttons: buttons,
 headerType: 4,
 }
@@ -99,7 +99,7 @@ let buttons = [
 let buttonMessage = {
 image: {url:ppgroup},
 caption: teks,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© FahmiGanss",
 buttons: buttons,
 headerType: 4,
 }
@@ -153,7 +153,7 @@ let buttonMessage = {
 image: log0,
 jpegThumbnail: thum,
 caption: mbcs,
-footer: "© MyMans APIs - X - ZackMans Official",
+footer: "© Fahmi`Botz",
 buttons: buttons,
 headerType: 4,
 }
