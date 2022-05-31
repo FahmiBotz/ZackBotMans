@@ -767,7 +767,7 @@ let thnsto = getjson.content[0].content[0].content[0].content ? getjson.content[
 let cBandwidth = await checkBandwidth()
 let prefs = ` ▸ ${prefix}`
 const listmn = `*ROBOT WHATSAPP MULTI DEVICE*
-_Script By FahmiBotz-Md - X - FahmiBotz Official_
+_Script By FahmiBotz-Md - X - FahmiBotz_
 ${cekbotinfo}
 
 STATISTICS BOT
@@ -992,7 +992,7 @@ video:fs.readFileSync("./media/video/mans.mp4"),
 gifPlayback:true,
 jpegThumbnail:log0,
 caption: listmn,
-footer: '© MyMans APIs - X - ZackMans Official',
+footer: '© FahmiGanss',
 templateButtons: templateButtons
 }
 mans.sendMessage(m.chat, templateMessage)
