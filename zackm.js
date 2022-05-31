@@ -973,7 +973,7 @@ ${prefs}cowner <add/del>
 > / => / $ / <
 
 THANKS TO :
-adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, FahmiBotz Official, Mastah Lainya
+adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, FahmiBotz Officiial, Mastah Lainya
 
 ${ucapanWaktu}
 ${jangwak}`
