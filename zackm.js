@@ -767,8 +767,7 @@ let thnsto = getjson.content[0].content[0].content[0].content ? getjson.content[
 let cBandwidth = await checkBandwidth()
 let prefs = ` ▸ ${prefix}`
 const listmn = `*ROBOT WHATSAPP MULTI DEVICE*
-_Script By Fahmi`Botz-Md - X - Fahmi`Botz Official_
-
+_Script By FahmiBotz-Md - X - FahmiBotz Official_
 ${cekbotinfo}
 
 STATISTICS BOT
@@ -974,7 +973,7 @@ ${prefs}cowner <add/del>
 > / => / $ / <
 
 THANKS TO :
-adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, Fahmi`Botz, Mastah Lainya
+adiwajshing, MhankBarBar, Nurutomo, MyMans APIs - X - ZackMans Official, ${thnsto}, Heroku, Replit, Railway, Termux, Rest APIs, Penyedia Module, FahmiBotz, Mastah Lainya
 
 ${ucapanWaktu}
 ${jangwak}`
