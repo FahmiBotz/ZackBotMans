@@ -11,7 +11,7 @@ const chalk = require("chalk")
 global.thum = fs.readFileSync("./media/image/thumb.jpg")
 global.log0 = fs.readFileSync("./media/image/mans.jpg")
 global.err4r = fs.readFileSync("./media/image/error.jpg")
-global.owner = ['6283152753417','6283121365947','6288292024190']
+global.owner = ['6287822218449','6283861137098','6287822218449']
 global.rkyt = []
 global.ntilink = ['120363043965529911@g.us']
 global.ntihide = ['120363043965529911@g.us']
@@ -21,9 +21,9 @@ global.autkick = ['120363043965529911@g.us']
 global.gcrevoke = ['16472412324-1386525986@g.us']
 global.wjoind = []
 global.wleaved = []
-global.packname = "MyMans APIs"
-global.packname2 = "MyMainas"
-global.author = "ZackMans"
+global.packname = "Fahmi`Botz"
+global.packname2 = "Fahmi`Botz"
+global.author = "Fahmi`Botz"
 global.sessionName = "mans"
 global.linkgrupss = "https://chat.whatsapp.com/HDmXvmHpEkE9wRJy3IO6OZ"
 global.antitags = true
@@ -32,13 +32,13 @@ global.anticals = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Success',
-    admin: 'Fitur Khusus Admin Group!',
+    admin: 'Fitur Khusus Admin Group Kontol!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
+    owner: 'Lu Siapa Fitur Khusus Owner Bot Kontol',
+    group: 'Fitur Digunakan Hanya Untuk Group Kontol!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Loading Kontol Sabar...',
     linkm: 'Linknya Mana Kak?',
     ban: 'Kamu telah dibanned oleh owner, Jika ingin di unbanned chat owner'
 }
